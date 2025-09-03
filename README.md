@@ -6,9 +6,9 @@ _<center>✔️ SEU CARGO </center>_
 
 #####
 ##### \_Análise\__________
-![SEU-NOME Git Status](https://github-readme-stats.vercel.app/api?username=NOME-DO-SEU-PERFIL&theme=dracula)
+![SEU-NOME Git Status](https://github-readme-stats.vercel.app/api?username=fmsarthur&theme=dracula)
 
-![SEU-NOME Git Info](https://github-readme-stats.vercel.app/api/top-langs/?username=NOME-DO-SEU-PERFIL&theme=dracula)
+![SEU-NOME Git Info](https://github-readme-stats.vercel.app/api/top-langs/?username=fmsarthur&theme=dracula)
 
 
 #####
